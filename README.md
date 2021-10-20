@@ -2,7 +2,7 @@
 
 # Features
 
-✔️ **Workd Offline**: All notes are saved in browser localStorage.
+✔️ **Worked Offline**: All notes are saved in browser localStorage.
 
 ✔️ **Ease to Use**: Simple and easy to use.
 
